@@ -1,0 +1,45 @@
+.school{
+    font-family: 'Kufam', cursive;
+    font-size: 60px;
+}
+.aus {
+    font-family: inherit;
+    font-size: 44px;
+}
+.shutup{
+    font-family: 'Lemonada', cursive;
+    font-size: 22px;
+}
+#toschool{
+    font-size: 40px;
+}
+.contus{
+    font-family: inherit;
+    font-size: 44px;
+}
+html{
+     background: linear-gradient(#9EFFFF 0%, #FF479D 100%);
+}
+.veb{
+    font-family: inherit;
+    font-size: 44px;
+    }
+#f{
+    font-family: inherit;
+    font-size: 44px;
+}
+.article{
+    font-family: 'Podkova', serif;
+    font-size: 29px;
+}
+.article2{
+    font-family: 'Podkova', serif;
+    font-size: 29px;
+}
+.article:hover {
+    color:white;
+     text-decoration: none;
+    color: darkturquoise;
+    text-shadow: 2px 2px orange;
+}
+.links:hover{ background-color: silver}
